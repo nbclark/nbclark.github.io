@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/nbclark/static/master/flockscanner.ipa</string>
+					<string>http://nbclark.github.io/flockscanner.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
